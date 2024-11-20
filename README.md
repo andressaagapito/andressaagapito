@@ -1,9 +1,9 @@
 ## ABOUT ME
-PT-BR: Me chamo Andressa. Sou analista e desenvolvedora de software com foco FullStack.
+PT-BR: Me chamo Andressa. Sou desenvolvedora front end.
 Entusiasta e curiosa, o que me leva a investigar e a compreender tudo ao meu redor. Gosto de dar vida a idéias e soluções por meio da tecnologia. 
 <br>
 <br>
-EN: My name is Andressa. I'm a FullStack software analyst and developer.
+EN: My name is Andressa. I'm a front end software developer.
 Enthusiastic and curious, which leads me to investigate and understand everything around me. I like bringing ideas and solutions to life through technology.
 
 ## TECHNOLOGIES AND TOOLS I USE:
