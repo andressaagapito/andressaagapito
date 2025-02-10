@@ -5,7 +5,14 @@ Entusiasta e curiosa, o que me leva a investigar e a compreender tudo ao meu red
 <br>
 EN: My name is Andressa. I'm a front end software developer.
 Enthusiastic and curious, which leads me to investigate and understand everything around me. I like bringing ideas and solutions to life through technology.
-
+<br>
+<br>
+ES: Mi nombre es Andressa. Soy desarrolladora de software front-end.
+Entusiasta y curiosa, lo que me lleva a investigar y comprender todo lo que me rodea. Me gusta dar vida a ideas y soluciones a través de la tecnología.
+<br>
+<br>
+Meu Portifólio:
+https://andressaagapito.github.io/portifolio
 ## TECHNOLOGIES AND TOOLS I USE:
 <div>
 <img align="center" alt="Andressa.html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
