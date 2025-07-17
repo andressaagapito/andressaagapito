@@ -12,6 +12,7 @@ Entusiasta y curiosa, lo que me lleva a investigar y comprender todo lo que me r
 <br>
 <br>
 💼 Portfólio de Design & Desenvolvimentoㅤㅤㅤㅤㅤ
+ㅤ
 ㅤㅤ📁 Protótipos Interativos:
 
 ㅤㅤ💻 Versão Desktop: bit.ly/Portifolio-Desktop
