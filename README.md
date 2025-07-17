@@ -11,17 +11,17 @@ ES: Mi nombre es Andressa. Soy desarrolladora de software full stack.
 Entusiasta y curiosa, lo que me lleva a investigar y comprender todo lo que me rodea. Me gusta dar vida a ideas y soluciones a través de la tecnología.
 <br>
 <br>
-💼 Portfólio de Design & Desenvolvimento
- 📁 Protótipos Interativos:
+💼 Portfólio de Design & Desenvolvimentoㅤㅤㅤㅤㅤ
+ㅤㅤ📁 Protótipos Interativos:
 
- 💻 Versão Desktop: bit.ly/Portifolio-Desktop
+ㅤㅤ💻 Versão Desktop: bit.ly/Portifolio-Desktop
 
- 📱 Versão Mobile: bit.ly/Portifolio-Mobile
+ㅤㅤ📱 Versão Mobile: bit.ly/Portifolio-Mobile
 
- 🌐 Site completo: andressaagapito.github.io/portifolio
+ㅤㅤ🌐 Site completo: andressaagapito.github.io/portifolio
 
 📬 Contato
- 🔗 LinkedIn: linkedin.com/in/andressaagapito
+ㅤㅤ🔗 LinkedIn: linkedin.com/in/andressaagapito
 
 
 ## TECHNOLOGIES AND TOOLS I USE:
