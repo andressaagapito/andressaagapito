@@ -20,6 +20,7 @@ Entusiasta y curiosa, lo que me lleva a investigar y comprender todo lo que me r
 ㅤㅤ🌐 Site completo: andressaagapito.github.io/portifolio
 
 📬 Contato
+
 ㅤㅤ🔗 LinkedIn: linkedin.com/in/andressaagapito
 
 
